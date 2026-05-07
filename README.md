@@ -90,7 +90,7 @@ I regularly upload:
 # 📸 Connect With Me
 
 ## 👨‍💻 GitHub
-https://github.com/yourusername
+https://github.comgit /pushpendra-yadav8650
 
 ## 📷 Instagram
 @pushendrayadav.ai
